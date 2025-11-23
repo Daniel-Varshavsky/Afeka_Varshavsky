@@ -65,11 +65,10 @@ No JavaScript is required for this project.
 ## 🚀 How to Run
 
 1. Download or clone the repository:
+
    ```bash
    git clone https://github.com/Daniel-Varshavsky/Afeka_Varshavsky
    ```
-
-```
 
 2. Open `index.html` in any web browser.
 3. Navigate between the pages using the menu or buttons.
@@ -94,4 +93,7 @@ You can find the full project here:
 👉 **[https://github.com/Daniel-Varshavsky/Afeka_Varshavsky](https://github.com/Daniel-Varshavsky/Afeka_Varshavsky)**
 
 ---
+
+```
+
 ```
