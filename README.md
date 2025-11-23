@@ -1,4 +1,4 @@
-# 🌍 5 Beautiful Locations I Visited
+# 🌍 Project 1 - 5 Beautiful Locations I Visited
 
 A simple, elegant, multi-page website showcasing five beautiful destinations around the world.  
 Each location has its own page with a short description, a list of main attractions, and a representative image.
