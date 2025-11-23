@@ -93,7 +93,3 @@ You can find the full project here:
 👉 **[https://github.com/Daniel-Varshavsky/Afeka_Varshavsky](https://github.com/Daniel-Varshavsky/Afeka_Varshavsky)**
 
 ---
-
-```
-
-```
