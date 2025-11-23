@@ -1,3 +1,5 @@
+/* styles.css */
+
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
@@ -10,7 +12,7 @@ h1 {
 }
 
 
-ul {
+.menu-list {
     list-style-type: none;
     padding: 0;
     text-align: center;
@@ -23,7 +25,13 @@ ul li {
 
 
 .loc-img {
-    width: 300px;
+    width: 400px;
+    height: auto;
+    border-radius: 8px;
+}
+
+.panorama {
+    width: 100%;
     height: auto;
     border-radius: 8px;
 }
@@ -42,4 +50,29 @@ ul li {
 
 .btn:hover {
     background-color: #005fa3;
+}
+
+body {
+    background-color: #f0f4ff;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 18px;
+    color: #1a1a1a;
+    margin: 20px;
+}
+
+
+table {
+    border: 2px solid #4a6fa5;
+    border-collapse: separate;
+    border-spacing: 12px;
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+
+td {
+    background-color: #dbe7ff;
+    border: 2px solid #4a6fa5;
+    padding: 10px;
+    vertical-align: top;
 }
